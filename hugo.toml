@@ -1,4 +1,4 @@
-baseURL = 'https://daddyananta.github.io/Store-deploy.github.io/'
+baseURL = 'https://website-e-commerce-daddyanantas-projects.vercel.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
