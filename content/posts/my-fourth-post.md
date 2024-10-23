@@ -2,6 +2,7 @@
 title = 'My Fourth Post'
 date = 2024-09-10T21:37:16+07:00
 draft = false
+slug: "my-first-post"
 description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam officia ipsam similique doloribus hic dicta eum exercitationem. Magni praesentium, hic aspernatur omnis modi, repellendus voluptatibus in eaque id quidem fugit."
 price = "Rp 300k "
 size = "34"
