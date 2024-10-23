@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 paginate = 16
-[permalinks]
-  posts = "/posts/:slug/"
 
 [params]
     description = "The fastest blog"
