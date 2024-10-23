@@ -5,6 +5,7 @@ draft = false
 description = "Rp 300k "
 show_home_image = false
 price = "Rp 300k "
+slug: "my-first-post"
 image = "/images//Sneakers/1.jpeg"
 categories= ["Sneakers"]
 avatar="/images/profil.jpeg"
