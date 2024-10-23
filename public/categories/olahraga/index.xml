@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olahraga on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/olahraga/</link>
+    <description>Recent content in Olahraga on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 21:37:16 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/olahraga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-5/</link>
+      <pubDate>Tue, 10 Sep 2024 21:37:16 +0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-5/</guid>
+      <description>&lt;p&gt;&#xA;  &#xA;  &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div id=&#34;/plotly/scatter3d.json&#34; class=&#34;plotly&#34; style=&#34;height:500px&#34;&gt;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;Plotly.d3.json(&#34;/plotly/scatter3d.json&#34;, function(err, fig) {&#xA;    Plotly.plot(&#39;\/plotly\/scatter3d.json&#39;, fig.data, fig.layout, {responsive: true});&#xA;});&#xA;&lt;/script&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
