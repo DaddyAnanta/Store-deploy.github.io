@@ -9,5 +9,11 @@
         "buildCommand": "hugo --gc"
       }
     }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
   ]
 }
