@@ -1,6 +1,6 @@
 baseURL = 'https://store-deploy-github-io.vercel.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Joseph Fashion Online Store'
 
 paginate = 16
 
